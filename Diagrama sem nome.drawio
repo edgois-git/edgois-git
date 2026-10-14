@@ -10,8 +10,14 @@
         <mxCell id="8KITmmQhNHrcIboGjX6s-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Edvan" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="uWhT9wiflzSP-x0tRDL2-2" edge="1" parent="1" source="8KITmmQhNHrcIboGjX6s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uWhT9wiflzSP-x0tRDL2-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8KITmmQhNHrcIboGjX6s-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="Estudante de Ansible&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="210" x="305" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWhT9wiflzSP-x0tRDL2-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="- [ ] Concluir curso Ansible para SysAdmin (Udemy)&lt;br&gt;- [ ] Instalar servidor Ansible" vertex="1">
+          <mxGeometry height="370" width="120" x="640" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
