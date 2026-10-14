@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="kk9ViDPrFOt3BkVeYAEl">
-    <mxGraphModel dx="1030" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8KITmmQhNHrcIboGjX6s-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Edvan" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="300" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="500" as="geometry" />
         </mxCell>
         <mxCell id="uWhT9wiflzSP-x0tRDL2-2" edge="1" parent="1" source="8KITmmQhNHrcIboGjX6s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uWhT9wiflzSP-x0tRDL2-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry height="190" width="210" x="305" y="30" as="geometry" />
         </mxCell>
         <mxCell id="uWhT9wiflzSP-x0tRDL2-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="- [ ] Concluir curso Ansible para SysAdmin (Udemy)&lt;br&gt;- [ ] Instalar servidor Ansible" vertex="1">
-          <mxGeometry height="370" width="120" x="640" y="10" as="geometry" />
+          <mxGeometry height="370" width="120" x="690" y="-60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
